@@ -42,6 +42,9 @@ const CHAPTER_FILES: Record<string, { path: string; desc: string }[]> = {
   c13: [],
   c14: [{ path: "cost-tracker.ts", desc: "Per-model token tracking" }],
   c15: [],
+  p01: [],
+  p02: [],
+  p03: [],
 };
 
 export function ChapterClient({ chapter, locale }: { chapter: string; locale: string }) {

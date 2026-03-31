@@ -66,6 +66,9 @@ const CHAPTER_KEY_FILES: Record<string, string[]> = {
   c13: [],
   c14: ["cost-tracker.ts", "costHook.ts"],
   c15: [],
+  p01: [],
+  p02: [],
+  p03: [],
 };
 
 function extractChapterData(chapterId: string, allFiles: FileEntry[]) {

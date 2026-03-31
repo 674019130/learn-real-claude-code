@@ -22,6 +22,9 @@ const visualizations: Record<
   c13: lazy(() => import("./c13-feature-gating")),
   c14: lazy(() => import("./c14-observability")),
   c15: lazy(() => import("./c15-hidden-features")),
+  p01: lazy(() => import("./p01-context-engineering")),
+  p02: lazy(() => import("./p02-agent-scaffolding")),
+  p03: lazy(() => import("./p03-code-quality")),
 };
 
 export function SessionVisualization({ version }: { version: string }) {
