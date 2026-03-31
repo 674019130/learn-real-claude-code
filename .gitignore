@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+web/node_modules/
+
+# Next.js
+web/.next/
+web/out/
+
+# Generated data (rebuilt by npm run extract)
+web/src/data/generated/source-index.json
+web/src/data/generated/chapters/
+
+# Source symlink target (external dependency)
+# The `source` symlink itself is tracked, but its target is external
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+*.swp

@@ -1,0 +1,51 @@
+{
+  "home": {
+    "title": "Learn Real Claude Code",
+    "subtitle": "Deep dive into the architecture of a production AI coding agent — 512K lines of leaked TypeScript",
+    "startLearning": "Start Learning",
+    "chapters": "Chapters",
+    "plusChapters": "Plus Chapters",
+    "architecture": "Architecture Map",
+    "flowTracer": "Flow Tracer",
+    "compare": "Real vs Simplified"
+  },
+  "nav": {
+    "home": "Home",
+    "architecture": "Architecture",
+    "explorer": "Code Explorer",
+    "flow": "Flow Tracer",
+    "compare": "Compare",
+    "timeline": "Timeline"
+  },
+  "chapter": {
+    "learn": "Learn",
+    "visualize": "Visualize",
+    "code": "Code",
+    "deepDive": "Deep Dive",
+    "coreQuestion": "Core Question",
+    "keyInsight": "Key Insight",
+    "keyFiles": "Key Source Files",
+    "prev": "Previous",
+    "next": "Next"
+  },
+  "viz": {
+    "c01": "CLI Bootstrap Waterfall",
+    "c02": "The Real Query Loop",
+    "c03": "Tool Registry & Executor",
+    "c04": "Command Dispatch Tree",
+    "c05": "Prompt Assembly Pipeline",
+    "c06": "Context Pressure Gauge",
+    "c07": "Memory & Dream Lifecycle",
+    "c08": "5-Layer Permission Stack",
+    "c09": "Hook Event Timeline",
+    "c10": "Coordinator Network",
+    "c11": "MCP Bridge Topology",
+    "c12": "React-to-ANSI Pipeline",
+    "c13": "Build Fork Tree",
+    "c14": "Cost Dashboard",
+    "c15": "Hidden Feature Gallery",
+    "p01": "Context Engineering Paradigm",
+    "p02": "Scaffolding Benchmark",
+    "p03": "Code Quality Spectrum"
+  }
+}

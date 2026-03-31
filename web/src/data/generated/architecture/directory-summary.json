@@ -1,0 +1,252 @@
+[
+  {
+    "directory": "utils",
+    "files": 298,
+    "loc": 91057
+  },
+  {
+    "directory": "components",
+    "files": 113,
+    "loc": 24379
+  },
+  {
+    "directory": "utils/plugins",
+    "files": 44,
+    "loc": 20565
+  },
+  {
+    "directory": "hooks",
+    "files": 83,
+    "loc": 16559
+  },
+  {
+    "directory": "ink",
+    "files": 43,
+    "loc": 13349
+  },
+  {
+    "directory": "bridge",
+    "files": 31,
+    "loc": 12644
+  },
+  {
+    "directory": "tools/BashTool",
+    "files": 18,
+    "loc": 12429
+  },
+  {
+    "directory": "services/mcp",
+    "files": 23,
+    "loc": 12333
+  },
+  {
+    "directory": "utils/bash",
+    "files": 15,
+    "loc": 12108
+  },
+  {
+    "directory": ".",
+    "files": 18,
+    "loc": 11986
+  },
+  {
+    "directory": "services/api",
+    "files": 20,
+    "loc": 10497
+  },
+  {
+    "directory": "utils/permissions",
+    "files": 24,
+    "loc": 9433
+  },
+  {
+    "directory": "tools/PowerShellTool",
+    "files": 14,
+    "loc": 8973
+  },
+  {
+    "directory": "commands/plugin",
+    "files": 17,
+    "loc": 7592
+  },
+  {
+    "directory": "cli",
+    "files": 6,
+    "loc": 7199
+  },
+  {
+    "directory": "tools/AgentTool",
+    "files": 14,
+    "loc": 6086
+  },
+  {
+    "directory": "screens",
+    "files": 3,
+    "loc": 5980
+  },
+  {
+    "directory": "commands",
+    "files": 15,
+    "loc": 5601
+  },
+  {
+    "directory": "components/messages",
+    "files": 33,
+    "loc": 5542
+  },
+  {
+    "directory": "components/PromptInput",
+    "files": 21,
+    "loc": 5182
+  },
+  {
+    "directory": "services",
+    "files": 16,
+    "loc": 4922
+  },
+  {
+    "directory": "utils/swarm",
+    "files": 13,
+    "loc": 4499
+  },
+  {
+    "directory": "utils/telemetry",
+    "files": 9,
+    "loc": 4053
+  },
+  {
+    "directory": "utils/settings",
+    "files": 16,
+    "loc": 4051
+  },
+  {
+    "directory": "services/analytics",
+    "files": 9,
+    "loc": 4049
+  },
+  {
+    "directory": "services/compact",
+    "files": 11,
+    "loc": 3971
+  },
+  {
+    "directory": "components/tasks",
+    "files": 12,
+    "loc": 3950
+  },
+  {
+    "directory": "components/mcp",
+    "files": 12,
+    "loc": 3884
+  },
+  {
+    "directory": "utils/hooks",
+    "files": 17,
+    "loc": 3738
+  },
+  {
+    "directory": "cli/transports",
+    "files": 7,
+    "loc": 3249
+  },
+  {
+    "directory": "keybindings",
+    "files": 14,
+    "loc": 3173
+  },
+  {
+    "directory": "services/tools",
+    "files": 4,
+    "loc": 3117
+  },
+  {
+    "directory": "utils/shell",
+    "files": 10,
+    "loc": 3079
+  },
+  {
+    "directory": "utils/swarm/backends",
+    "files": 9,
+    "loc": 3071
+  },
+  {
+    "directory": "components/agents",
+    "files": 13,
+    "loc": 3034
+  },
+  {
+    "directory": "components/CustomSelect",
+    "files": 10,
+    "loc": 3029
+  },
+  {
+    "directory": "utils/nativeInstaller",
+    "files": 5,
+    "loc": 3023
+  },
+  {
+    "directory": "components/permissions",
+    "files": 15,
+    "loc": 2743
+  },
+  {
+    "directory": "skills/bundled",
+    "files": 17,
+    "loc": 2733
+  },
+  {
+    "directory": "utils/model",
+    "files": 16,
+    "loc": 2726
+  },
+  {
+    "directory": "native-ts/yoga-layout",
+    "files": 2,
+    "loc": 2714
+  },
+  {
+    "directory": "constants",
+    "files": 21,
+    "loc": 2669
+  },
+  {
+    "directory": "entrypoints/sdk",
+    "files": 3,
+    "loc": 2617
+  },
+  {
+    "directory": "components/Settings",
+    "files": 4,
+    "loc": 2577
+  },
+  {
+    "directory": "components/LogoV2",
+    "files": 15,
+    "loc": 2497
+  },
+  {
+    "directory": "services/lsp",
+    "files": 7,
+    "loc": 2467
+  },
+  {
+    "directory": "components/permissions/rules",
+    "files": 8,
+    "loc": 2380
+  },
+  {
+    "directory": "commands/install-github-app",
+    "files": 14,
+    "loc": 2366
+  },
+  {
+    "directory": "utils/claudeInChrome",
+    "files": 7,
+    "loc": 2344
+  },
+  {
+    "directory": "utils/powershell",
+    "files": 3,
+    "loc": 2308
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "home": {
+    "title": "深入真实 Claude Code",
+    "subtitle": "深度剖析工业级 AI 编码 Agent 的架构 — 512K 行泄露的 TypeScript 源码",
+    "startLearning": "开始学习",
+    "chapters": "章节",
+    "plusChapters": "Plus 章节",
+    "architecture": "架构总览",
+    "flowTracer": "请求流追踪",
+    "compare": "简化版 vs 真实版"
+  },
+  "nav": {
+    "home": "首页",
+    "architecture": "架构图",
+    "explorer": "源码浏览",
+    "flow": "流追踪",
+    "compare": "对比",
+    "timeline": "时间线"
+  },
+  "chapter": {
+    "learn": "学习",
+    "visualize": "可视化",
+    "code": "代码",
+    "deepDive": "深入",
+    "coreQuestion": "核心问题",
+    "keyInsight": "关键洞察",
+    "keyFiles": "关键源文件",
+    "prev": "上一章",
+    "next": "下一章"
+  },
+  "viz": {
+    "c01": "CLI 启动瀑布图",
+    "c02": "真实 Query Loop",
+    "c03": "工具注册与执行器",
+    "c04": "命令调度树",
+    "c05": "提示词组装管道",
+    "c06": "上下文压力仪表",
+    "c07": "记忆与梦境生命周期",
+    "c08": "五层权限栈",
+    "c09": "Hook 事件时间线",
+    "c10": "Coordinator 网络图",
+    "c11": "MCP 桥接拓扑",
+    "c12": "React-to-ANSI 管道",
+    "c13": "构建分叉树",
+    "c14": "成本仪表盘",
+    "c15": "隐藏功能画廊",
+    "p01": "Context Engineering 范式",
+    "p02": "Scaffolding 基准",
+    "p03": "代码质量光谱"
+  }
+}
